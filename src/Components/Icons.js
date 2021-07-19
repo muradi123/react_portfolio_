@@ -5,24 +5,35 @@ const Icons = () => {
         <div className="icon_container">
           <div className="icon_inner">
             <div>
-            <span className="share_text">facebook</span>
-              <i className="fa fa-facebook" aria-hidden="true"></i>
+            <span className="share_text  ">facebook</span>
+            <a href="https://www.facebook.com/muradi.jamburia/">
+            <i className="fa fa-facebook hover_icon" aria-hidden="true"></i>
+            </a>
+             
             </div>
             <div>
             <span  className="share_text">twitter</span>
-              <i className="fa fa-twitter" aria-hidden="true"></i>
+            <a href="https://twitter.com/?lang=en">
+              <i className="fa fa-twitter hover_icon" aria-hidden="true"></i>
+            </a>
             </div>
             <div>
             <span className="share_text">instagram</span>
-              <i className="fa fa-instagram" aria-hidden="true"></i>
+            <a href="https://www.instagram.com/">
+              <i className="fa fa-instagram hover_icon" aria-hidden="true"></i>
+              </a>
             </div>
             <div>
             <span className="share_text">behance</span>
-              <i className="fa fa-behance" aria-hidden="true"></i>
+            <a href="https://www.behance.net/">
+              <i className="fa fa-behance hover_icon" aria-hidden="true"></i>
+              </a>
             </div>
             <div>
             <span  className="share_text">dribbble</span>
-              <i className="fa fa-dribbble" aria-hidden="true"></i>
+            <a href="https://dribbble.com/">
+              <i className="fa fa-dribbble hover_icon" aria-hidden="true"></i>
+              </a>
             </div>
            
           </div>
