@@ -388,7 +388,7 @@
         width: 140px;
     }
     .contact_title h1 {
-        font-size: 2em;
+        font-size: 1.8em;
         margin-top: 10px;
     }
     .contact_container_inner {
@@ -415,7 +415,7 @@
         margin: 0 8%;
     }
     .contact_first_panel_inner {
-        padding: 50px 5%;
+        padding: 50px 10%;
     }
     .contact_container_inner {
         margin:  0 0;
