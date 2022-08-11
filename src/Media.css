@@ -328,7 +328,7 @@
       }
   }
 
-  @media screen and (max-width: 449px) and (min-width: 350px){
+  @media screen and (max-width: 449px) and (min-width: 320px){
     .header_main_buttons {
         margin-bottom: 150px;
     }
@@ -477,7 +477,7 @@
         background-color: black;
         height: 50px;
         width: 150px;
-        right: 3%;
+        right: 20px;
         top: 14px;
         /* padding: 300px; */
     }
